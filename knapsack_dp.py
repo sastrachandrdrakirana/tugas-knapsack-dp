@@ -6,10 +6,9 @@ Program ini mengimplementasikan algoritma 0/1 Knapsack menggunakan
 Dynamic Programming untuk menyelesaikan masalah pemilihan item Indomie
 dengan kapasitas tas terbatas.
 
-Kelompok: [Nama Kelompok]
+Kelompok
 Anggota:
-1. [Nama Anggota 1]
-2. [Nama Anggota 2]
+1. [SASTRA CHANDRA KIRANA .A] 105841103721
 =============================================================================
 """
 

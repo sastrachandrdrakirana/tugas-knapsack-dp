@@ -87,8 +87,8 @@ Laporan mencakup 4 bagian:
 
 | Nama | NIM |
 |------|-----|
-| [Nama Anggota 1] | [NIM] |
-| [Nama Anggota 2] | [NIM] |
+| [Sastra Chandra Kirana .A] | [105841103721] |
+| [-] | [-] |
 
 ---
 

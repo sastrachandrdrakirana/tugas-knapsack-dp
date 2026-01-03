@@ -4,14 +4,17 @@
 ---
 
 ## Informasi Kelompok
+SASTRA CHANDRA KIRANA .A (105841103721)
+SAYA SENDIRI
+
 
 | | |
 |---|---|
-| **Mata Kuliah** | Algoritma |
+| **Mata Kuliah** | Desain dan AnalisisAlgoritma |
 | **Tugas** | 0/1 Knapsack Problem dengan Dynamic Programming |
-| **Anggota 1** | [Nama Anggota 1] |
-| **Anggota 2** | [Nama Anggota 2] |
-| **Tanggal** | 04 Januari 2026 |
+| **Anggota 1** | [Sastra Chandra Kirana .A] |
+| **Anggota 2** | [-] |
+| **Tanggal deadline** | 04 Januari 2026 |
 
 ---
 
@@ -63,7 +66,7 @@ Jenis Knapsack yang digunakan dalam tugas ini adalah **0/1 Knapsack Problem**.
 
 **1. Optimal Substructure (Struktur Optimal)**
    - Solusi optimal untuk masalah keseluruhan dapat dibangun dari solusi optimal sub-masalah
-   - Jika kita tahu solusi optimal untuk i-1 item pertama, kita bisa menentukan solusi untuk i item
+   - Jika kita tahu solusi optimal untuk item pertama, kita juga harus bisa menentukan solusi untuk item tersebut
 
 **2. Overlapping Subproblems (Sub-masalah yang Tumpang Tindih)**
    - Dalam penyelesaian rekursif, sub-masalah yang sama dihitung berulang kali
@@ -345,13 +348,6 @@ No  Nama Item                          Berat (g)   Nilai
 TOTAL                                  400         418       
 ======================================================================
 ```
-
-## 3.3 Link GitHub
-
-**Repository**: [Masukkan link GitHub di sini setelah upload]
-
-**Screenshot Program**: [Lihat di bawah atau lampirkan]
-
 ---
 
 # BAGIAN 4 - ANALISIS
