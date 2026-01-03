@@ -1,0 +1,12 @@
+# Ignore temporary files
+~$*
+~*.tmp
+*.tmp
+~WRL*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Word temporary files
+~$*.docx
